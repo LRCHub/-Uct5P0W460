@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Fleeting Wish",
+  "base_artist": "フロストノヴァ(CV:高垣彩陽)",
+  "createdAt": "2026-03-03T08:24:12.113949Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fleeting Wish",
+      "artist": "フロストノヴァ (CV:高垣彩陽)",
+      "has_synced": false,
+      "path": "select/pl_01_Fleeting_Wish_フロストノヴァ_(CV_高垣彩陽).txt"
+    }
+  ]
+}
